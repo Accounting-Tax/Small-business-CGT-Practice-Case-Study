@@ -1,9 +1,8 @@
-# Small-business-CGT
-CTA3 2024 - CS3 Small Business CGT Practice Case Study
+[Back to Home page](https://anh.contact)
 
-Summary of Background and Facts
+# CTA3 2024 - CS3 Practice Case Study: Small Business CGT 
 
-Company Background:
+## Company Background:
 - Blackstone Pty Ltd: Established in July 2002 as "Gold & Silver Jewellery."
 - Shareholders: Ted Gold (35 shares) Mary Gold (35 shares) Barry Silver (30 shares).
 - Initial Funding: $200000 from shareholders.
